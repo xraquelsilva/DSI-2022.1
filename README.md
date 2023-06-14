@@ -1,6 +1,6 @@
-# first_app_flutter
+# My first flutter app
 
-A new Flutter project.
+Este repositório é destinado à disciplina de DSI ofertada pela UFRPE.
 
 ## Getting Started
 
